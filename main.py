@@ -6,7 +6,7 @@ import random
 import csv
 
 
-openai.api_key = "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"
+openai.api_key = "API_KEY"
 
 
 file_path = "sentences.csv" 
